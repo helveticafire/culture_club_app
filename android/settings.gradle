@@ -1,0 +1,3 @@
+rootProject.name = 'culture_club'
+
+include ':app'
