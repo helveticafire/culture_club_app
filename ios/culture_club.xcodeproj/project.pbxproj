@@ -724,6 +724,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = "io.cultureclub.culture-club";
 				PRODUCT_NAME = culture_club;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -746,6 +747,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = "io.cultureclub.culture-club";
 				PRODUCT_NAME = culture_club;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
