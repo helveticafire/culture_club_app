@@ -39,3 +39,12 @@ buck-out/
 \.buckd/
 android/app/libs
 *.keystore
+
+# fastlane
+fastlane/Appfile
+fastlane/Matchfile
+fastlane/README.md
+fastlane/report.xml
+
+# build file
+culture_club.app.dSYM.zip
